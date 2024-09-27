@@ -1,0 +1,6 @@
+{
+  "name": "dev_container_demo",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
